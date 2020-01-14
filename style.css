@@ -8,10 +8,10 @@ body {
 
 main {
 
-    background-color: darkgrey;
+    background-color: dimgrey;
 }
 aside {
-    background-color: darkgrey;
+    background-color: dimgrey;
     width: 5%;
 }
 aside > a {
