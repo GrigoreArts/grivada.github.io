@@ -3,15 +3,15 @@
 }
 body {
     color: whitesmoke;
-    background-color: darkgrey;
+    background-color: dimgrey;
 }
 
 main {
 
-    background-color: rgb(0, 143, 129);
+    background-color: darkgrey;
 }
 aside {
-    background-color: seagreen;
+    background-color: darkgrey;
     width: 5%;
 }
 aside > a {
